@@ -9,9 +9,9 @@
 - 📫 How to reach me: Yu.Siwen@outlook.com
 - 🔗 Follow me on:
 
-<a href="https://space.bilibili.com/279750551" target="blank"><img align="center" src="https://static.is26.com/tmp/icons/bilibili.svg" alt="279750551" height="54" width="72" /></a>
-<a href="https://x.com/wenyu04173012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wenyu04173012" height="48" width="64" /></a>
-<a href="https://www.instagram.com/ysw0121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="48" width="64" /></a>
+<a href="https://space.bilibili.com/279750551" target="blank"><img align="center" src="https://static.is26.com/tmp/icons/bilibili.svg" alt="279750551" height="51" width="68" /></a>
+<a href="https://x.com/wenyu04173012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wenyu04173012" height="42" width="56" /></a>
+<a href="https://www.instagram.com/ysw0121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="42" width="56" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw0121&layout=compact)](https://github.com/ysw0121/github-readme-stats)
