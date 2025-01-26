@@ -14,7 +14,7 @@
 <a href="https://www.instagram.com/ysw0121/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="42" width="56" /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw0121&layout=compact)](https://github.com/ysw0121/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysw0121&layout=compact&langs_count=15&card_width=330)](https://github.com/ysw0121/github-readme-stats)
 ![Ysw's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysw0121&show_icons=true&theme=tokyonight)
 
 <h2>🚀 Some Tools I Use</h2>
