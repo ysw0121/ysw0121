@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently an undergraduate in NJU CS and Fin-tech
 - 🌱 I’m looking forward to learn quantitive research
-- 👀 I’m interested in some classical music (mainly piano/piano concerto), animation *(Koisuru Asteroid, Order a Rabbit, K-ON!, Takagi-san)*, & astronomy
+- 👀 I’m interested in some classical music (mainly piano/piano concerto), animation *(Koisuru Asteroid/Asteroid in Love, Order a Rabbit, K-ON!, Takagi-san)*, & astronomy
 - 💞️ I’m looking to collaborate in team work and try my best to contribute more to projects!
 - 📫 How to reach me: Yu.Siwen@outlook.com
 - 🔗 Follow me on:
