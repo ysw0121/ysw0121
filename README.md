@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/ysw0121/count.svg)
 
 ## Hi there 👋 I'm Siwen Yu. Glad to see You on Github!
 
